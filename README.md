@@ -4,11 +4,6 @@
 <!-- # date: "5/18/2020" -->
 <!-- # output: html_document -->
 <!-- # --- -->
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## How to run the R script
 
 1. Download the zip file that contains the data and unzip it.
