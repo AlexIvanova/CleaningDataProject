@@ -5,10 +5,6 @@
 <!-- # output: html_document -->
 <!-- # --- -->
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## CodeBook
 
 This is a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
